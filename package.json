@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizcsbh/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Luiz Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luizcsbh/cursonode/issues"
+  },
+  "homepage": "https://github.com/luizcsbh/cursonode#readme",
+  "description": ""
+}
